@@ -34,6 +34,7 @@ Hillstagram is a HBCU inclusive social media app. Hillstagram will allow users t
 * User can comment on other users posts
 * User can scroll
 * Sign Up button
+* Pull to refresh
 
 **Optional Nice-to-have Stories**
 
