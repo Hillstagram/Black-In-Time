@@ -75,7 +75,7 @@ User can double tap a photo to like
    * ...
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+
 <https://ibb.co/WfzYv1H>
 
 ### [BONUS] Digital Wireframes & Mockups
