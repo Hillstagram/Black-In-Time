@@ -15,12 +15,12 @@ hillstagram is a HBCU inclusive social media app. Hillstagram will allow users t
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:Hilstagram
+- **Mobile:iOS
+- **Story:
+- **Market: HBCU students and alumni
+- **Habit: 
+- **Scope: 
 
 ## Product Spec
 
