@@ -29,13 +29,22 @@ hillstagram is a HBCU inclusive social media app. Hillstagram will allow users t
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can login to app
+* User can logout of app
+* User can remain signed into app
+* User can post photos
+* User can view othe users photos
+* User can comment on other users posts
+* User can scroll
+* 
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Automatic Refresh 
+* User can send messages to other users
+* User can scroll indefinitely
+* User can search other users name
+* Users can create a group message
 
 ### 2. Screen Archetypes
 
