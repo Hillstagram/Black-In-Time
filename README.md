@@ -61,9 +61,10 @@ User can double tap a photo to like
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Feed
+* Search User
+* Post a Photo
+* Logout
 
 **Flow Navigation** (Screen to Screen)
 
@@ -78,15 +79,3 @@ User can double tap a photo to like
 
 <https://ibb.co/WfzYv1H>
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
