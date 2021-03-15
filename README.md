@@ -1,5 +1,4 @@
 # Hillstagram
-Original App Design Project - README Template
 ===
 
 # Hillstagram
@@ -36,7 +35,7 @@ hillstagram is a HBCU inclusive social media app. Hillstagram will allow users t
 * User can view othe users photos
 * User can comment on other users posts
 * User can scroll
-* 
+* Sign Up button
 
 **Optional Nice-to-have Stories**
 
@@ -48,12 +47,15 @@ hillstagram is a HBCU inclusive social media app. Hillstagram will allow users t
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+   * user can login
+   * user can sign up
+
+* Stream
+  * User can view a feed of photos
+User can double tap a photo to like
+* Creation
+  * User can post a new photo to their feed
 
 ### 3. Navigation
 
