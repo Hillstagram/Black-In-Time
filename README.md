@@ -50,10 +50,10 @@ Hillstagram is a HBCU inclusive social media app. Hillstagram will allow users t
 * Login Screen
    * user can login
    * user can sign up
-
 * Stream
   * User can view a feed of photos
-User can double tap a photo to like
+  * Users can scroll other users photos
+  * User can double tap a photo to like
 * Creation
   * User can post a new photo to their feed
 
@@ -68,12 +68,16 @@ User can double tap a photo to like
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Login Screen
+  * Home
+* Registration Screen
+  * Home
+* Stream Screen
+  * None, but future version will likely involve navigation to a detailed screen to see comments for each photo.
+* Creation Screen
+  * Home (after you finish posting the photo)
+
+
 
 ## Wireframes
 
