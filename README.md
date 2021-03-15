@@ -13,7 +13,6 @@
 Hillstagram is a HBCU inclusive social media app. Hillstagram will allow users to interact with other students from different Historically Black Colleges and Universities. Hillstagram will be similar to the Instagram platform, allowing users to post pictures with captions, like users photos and comment. 
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:Hilstagram
 - **Mobile:iOS
 - **Story:
